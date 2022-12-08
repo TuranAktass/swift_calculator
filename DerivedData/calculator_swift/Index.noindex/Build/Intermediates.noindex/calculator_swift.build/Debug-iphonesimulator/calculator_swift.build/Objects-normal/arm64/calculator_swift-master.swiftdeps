@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "3a2ae9672b4b03fee9d1b8694ec2e41fab32ebe8a34f929774382bc049a0eb86"
+build_start_time: [1670504497, 742432117]
+build_end_time: [1670504499, 902154922]
+inputs:
+  "/Users/risetime/Documents/turan/calculator_swift/calculator_swift/AppDelegate.swift": [1670504488, 704130411]
+  "/Users/risetime/Documents/turan/calculator_swift/calculator_swift/SceneDelegate.swift": [1670504488, 707542419]
+  "/Users/risetime/Documents/turan/calculator_swift/calculator_swift/ViewController.swift": [1670504488, 708389043]

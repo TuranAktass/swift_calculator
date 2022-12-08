@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+calculator_swift in calculator_swift, no dependencies
+calculator_swift in calculator_swift, no dependencies
+calculator_swiftTests in calculator_swift, depends on:
+calculator_swift in calculator_swift (explicit)
+calculator_swiftTests in calculator_swift, depends on:
+calculator_swift in calculator_swift (explicit)
+calculator_swiftTests in calculator_swift, no dependencies
+calculator_swiftUITests in calculator_swift, depends on:
+calculator_swift in calculator_swift (explicit)
+calculator_swiftUITests in calculator_swift, depends on:
+calculator_swift in calculator_swift (explicit)
+calculator_swiftUITests in calculator_swift, no dependencies

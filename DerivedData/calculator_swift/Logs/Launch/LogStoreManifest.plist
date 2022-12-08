@@ -5,6 +5,97 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>BB305E65-FFC4-49E4-BABE-9E260B4693C1</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>CE1684FE-4C70-4AF9-A938-DDAA520752F6</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-calculator_swift-2022.12.08_16-14-16-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calculator_swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calculator_swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run calculator_swift</string>
+			<key>timeStartedRecording</key>
+			<real>692198056.90982497</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run calculator_swift</string>
+			<key>uniqueIdentifier</key>
+			<string>BB305E65-FFC4-49E4-BABE-9E260B4693C1</string>
+		</dict>
+		<key>CD740956-78E1-4A72-942D-C600A4AF0926</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>E537CBE8-5477-4330-A438-B1EB2D6D13CE</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-calculator_swift-2022.12.08_16-23-10-+0300.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calculator_swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calculator_swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run calculator_swift</string>
+			<key>timeStartedRecording</key>
+			<real>692198590.91718996</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run calculator_swift</string>
+			<key>uniqueIdentifier</key>
+			<string>CD740956-78E1-4A72-942D-C600A4AF0926</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

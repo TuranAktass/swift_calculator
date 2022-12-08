@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>CE1684FE-4C70-4AF9-A938-DDAA520752F6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CE1684FE-4C70-4AF9-A938-DDAA520752F6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calculator_swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calculator_swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build calculator_swift</string>
+			<key>timeStartedRecording</key>
+			<real>692198056.91513205</real>
+			<key>timeStoppedRecording</key>
+			<real>692198060.90415597</real>
+			<key>title</key>
+			<string>Build calculator_swift</string>
+			<key>uniqueIdentifier</key>
+			<string>CE1684FE-4C70-4AF9-A938-DDAA520752F6</string>
+		</dict>
+		<key>E537CBE8-5477-4330-A438-B1EB2D6D13CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E537CBE8-5477-4330-A438-B1EB2D6D13CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calculator_swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calculator_swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build calculator_swift</string>
+			<key>timeStartedRecording</key>
+			<real>692198590.92060494</real>
+			<key>timeStoppedRecording</key>
+			<real>692198593.275177</real>
+			<key>title</key>
+			<string>Build calculator_swift</string>
+			<key>uniqueIdentifier</key>
+			<string>E537CBE8-5477-4330-A438-B1EB2D6D13CE</string>
+		</dict>
+		<key>F9C75EAE-F6B2-42AD-B3DB-01AEA9712E1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9C75EAE-F6B2-42AD-B3DB-01AEA9712E1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>calculator_swift project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>calculator_swift</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build calculator_swift</string>
+			<key>timeStartedRecording</key>
+			<real>692199522.44038105</real>
+			<key>timeStoppedRecording</key>
+			<real>692199523.467345</real>
+			<key>title</key>
+			<string>Build calculator_swift</string>
+			<key>uniqueIdentifier</key>
+			<string>F9C75EAE-F6B2-42AD-B3DB-01AEA9712E1F</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
